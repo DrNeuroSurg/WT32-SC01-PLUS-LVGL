@@ -10,7 +10,6 @@ Simple, but working "out-of-the-box". With this configuration it is possible to 
 For a more complex use-case go to https://github.com/DrNeuroSurg/TINYRadio9
 
 # Used libraries:
-LVGL V 9.1
-LoyanGFX
+LVGL V 9.1 and LoyanGFX
 
 
