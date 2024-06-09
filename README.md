@@ -4,6 +4,9 @@ This is a very good starting point for using Panlee's WT32-SC01-PLUS with Platfo
 It shows how to initialize the screen and creating some LVGL-widgets.
 Simple, but working "out-of-the-box".
 
+## ![Screenshot](/images/screen.jpg) 
+(sorry for the bad photo)
+
 For a more complex use-case go to https://github.com/DrNeuroSurg/TINYRadio9
 
 # Used libraries:
